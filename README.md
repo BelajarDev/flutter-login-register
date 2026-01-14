@@ -10,7 +10,7 @@ Project ini dibuat untuk **belajar Flutter dari nol**, fokus pada alur dasar aut
 > Screenshot aplikasi (desain diedit menggunakan Canva)
 
 <p align="center">
-  <img src="screenshots/Halaman login, register and home.png.png" width="250">
+  <img src="screenshots/Mockup.png" width="250">
 </p>
 
 📌 **Catatan:**  
